@@ -101,25 +101,7 @@ Provides useful weather parameters such as:
 ## 📂 Project Structure
 
 
-Weatherly/
-│
-├── public/
-│
-├── src/
-│   ├── assets/
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   │
-│   └── index.css
-│
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-├── .gitignore
-└── README.md
+<img width="916" height="643" alt="image" src="https://github.com/user-attachments/assets/0b3f0416-69c2-4b71-b98d-b9c8084818cb" />
 
 
 

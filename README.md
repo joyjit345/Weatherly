@@ -10,7 +10,7 @@ Whether you want to check the current weather, monitor upcoming conditions, or e
 
 🔗 **Live Website:** https://weatherly-opal-sigma.vercel.app
 
-🔗 **GitHub Repository:** [Add your repository URL here]
+🔗 **GitHub Repository:** https://github.com/joyjit345/Weatherly
 
 ---
 
